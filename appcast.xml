@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PeakBar</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 22 May 2026 17:23:18 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/mebhargava02/peakbar-releases/releases/download/downloads/PeakBar-1.0.zip" length="4180283" type="application/octet-stream" sparkle:edSignature="KJgcVY/xm9yw8dMAg/MaE9phy8jlYScq911Cnx4FYOOZ07yHRbNhQlqhNlNztk0v9135PRPY0br0RmRt3Zi4Aw=="/>
+        </item>
+    </channel>
+</rss>
