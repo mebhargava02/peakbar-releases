@@ -3,6 +3,18 @@
     <channel>
         <title>PeakBar</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 26 May 2026 13:10:32 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/mebhargava02/peakbar-releases/releases/download/downloads/PeakBar-1.0.1.zip" length="4277280" type="application/octet-stream" sparkle:edSignature="dV1XI1x9HCcv006/C0I6T/NDT41U6uFDR3gcsCqZ+8lNqC5noc2HwIrvp2VCbW5uk44/T8N7jdbd1bBTFjfZBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mebhargava02/peakbar-releases/releases/download/downloads/PeakBar2-1.delta" sparkle:deltaFrom="1" length="207974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hrUPf4VpS1h5LDsDoXAbE9Ug2lZS82/mTqHe+nE0HGE+9ghtf/tic/Mj9HdVgr+brwyZ/8rLfqoaI3vGynCvDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Fri, 22 May 2026 17:23:18 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
