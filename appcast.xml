@@ -3,6 +3,20 @@
     <channel>
         <title>PeakBar</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Thu, 28 May 2026 15:42:06 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mebhargava02/peakbar-releases/main/PeakBar-1.0.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mebhargava02/peakbar-releases/releases/download/downloads/PeakBar-1.0.2.zip" length="4340021" type="application/octet-stream" sparkle:edSignature="6ZPgpMxxc7gRW9nbAFLjPjVR9WGHEIsVjJTqnLgn34AdMBy+tviw/UcHqkSIA82ZTknS3nBdDH8RE7U72Ay6Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mebhargava02/peakbar-releases/releases/download/downloads/PeakBar3-2.delta" sparkle:deltaFrom="2" length="170966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="psO9d749Dcl+dKTnz7CQ4sE4nZvKzfIhClzVlItC+pmX9z6PR40DBxo7C0u2X+pV4/LZ6GPIxcT5MxhtBrpBCw=="/>
+                <enclosure url="https://github.com/mebhargava02/peakbar-releases/releases/download/downloads/PeakBar3-1.delta" sparkle:deltaFrom="1" length="271482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hz9xCIAK6wQ4gzS8Q1jn5piZDnmB2UVXb7s43wV21ZhlktOZzeJpmkGAv0oaBW3LMllTIA4mffOejvcsH8YgCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 26 May 2026 13:10:32 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
